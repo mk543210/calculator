@@ -1,0 +1,2 @@
+.calc-app{margin:40px auto 0;text-align:center;width:250px}.keypad{display:grid;grid-auto-rows:minmax(60px,auto);grid-template-columns:repeat(4,1fr)}input[type=text]{background-color:#f0f8ff;height:60px;width:240px}#clear{color:blue;grid-column:1/3;grid-row:1}#result{color:green;grid-column:3/5;grid-row:5}#backspace{color:purple}
+/*# sourceMappingURL=main.7c3c9f45.css.map*/
